@@ -5,7 +5,7 @@
   <artifactId>HR</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>HR Maven Webapp</name>
+  <name>HR Maven Webapp nn</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
